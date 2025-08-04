@@ -1,6 +1,6 @@
 # 🤖 watsonx Agentic AI Bootcamp
 
-![alt text](SOUTH-AFRICA-PARTNER-AGENTIC-AI-BOOTCAMP-main/SOUTH-AFRICA-PARTNER-AGENTIC-AI-BOOTCAMP-main/img/updated-banner.png)
+![alt text](./img/updated-banner.png)
 
 In this bootcamp, you will build and deploy an Agentic AI application prototype for an enterprise use case.
 
