@@ -13,15 +13,15 @@ In this bootcamp, you will build and deploy an Agentic AI application prototype 
 ## Lab-0: IBM Cloud Setup - [Link](./Lab-0:IBM_Cloud_Setup)
 
 ## Lab-1: Intelligent Assistant
-- [Intelligent assistant for Warehouse management](./Lab-1:Usecases/intelligent-assistant)
+- [Intelligent assistant for Warehouse management](./Lab-1_Usecases/intelligent-assistant/README.md)
     - watsonx Orchestrate + Bring your own agent
       
 ## Lab-2: Financial Research Analyst
-- [Financial Research Analyst](./Lab-1:Usecases/banking-financial-research-analyst)
+- [Financial Research Analyst](./Lab-1_Usecases/banking-financial-research-analyst/README.md)
     - watsonx Orchestrate + Knowledge Base
 
 ## Lab-3: HR Automation
-- [HR automation](./Lab-1:Usecases/ask-hr) 
+- [HR automation](./Lab-1_Usecases/ask-hr/README.md) 
     -  watsonx Orchestrate + Knowledge Base + Custom deployment
 
 ## Optional Hands-on Labs
